@@ -11,7 +11,7 @@ import android.widget.Button;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.example.quaker.HomePage;
+import com.example.quaker.Homepage.HomePage;
 import com.example.quaker.R;
 
 public class onBoardingActivity extends AppCompatActivity {

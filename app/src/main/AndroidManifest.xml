@@ -9,7 +9,7 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".HomePage"></activity>
+        <activity android:name=".Homepage.HomePage"></activity>
         <activity android:name=".onBoardScreen.onBoardingActivity" />
         <activity
             android:name=".SplashScreen.SplashActivity"
